@@ -1,3 +1,3 @@
 # repo1
 
-test org cla
+test custom fields: hidden + textarea, test check PRs
